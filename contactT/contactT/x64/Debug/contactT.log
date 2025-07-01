@@ -1,0 +1,8 @@
+﻿  contactT.cpp
+D:\contactT\contactT\contactT.cpp(674,21): warning C4566: character represented by universal-character-name '\U0001F382' cannot be represented in the current code page (1251)
+  main.cpp
+D:\contactT\contactT\main.cpp(12,13): warning C4566: character represented by universal-character-name '\U0001F517' cannot be represented in the current code page (1251)
+D:\contactT\contactT\main.cpp(48,21): warning C4566: character represented by universal-character-name '\U0001F44B' cannot be represented in the current code page (1251)
+D:\contactT\contactT\main.cpp(53,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1251)
+  Generating Code...
+  contactT.vcxproj -> D:\contactT\x64\Debug\contactT.exe
